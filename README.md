@@ -93,3 +93,8 @@ After a win or draw, the game displays the performance comparison and overall sc
       3    |   0.55591   |    0.03806
 
 This illustrates how Alpha-Beta Pruning drastically reduces computation time while maintaining identical AI decisions.
+
+### Presentation:
+https://drive.google.com/file/d/1NXfFS-e6tNhOKoYJR-LeqyIXEW5Pmd41/view?usp=sharing
+
+
